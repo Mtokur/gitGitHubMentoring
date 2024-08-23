@@ -1,6 +1,6 @@
 package git_github;
 
-public class Çalışma {
+public class Çalisma {
 
 
     public static void main(String[] args) {
