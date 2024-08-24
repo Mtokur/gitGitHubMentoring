@@ -7,6 +7,7 @@ public class Çalisma {
 
         System.out.println( "Hello world!"   );
         System.out.println("deneme çalışması");
+        System.out.println(" driff komutu deneme");
 
 
     }
