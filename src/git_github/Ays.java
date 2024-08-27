@@ -6,5 +6,9 @@ public class Ays {
         System.out.println("Merhaba");
         System.out.println("Merhaba");
         System.out.println("Merhaba");
+
+
+        //branch da yapılan değişiklikler lokalde kaydedilmeden maine geçilir ise yapılan değişiklikler silinebilir
+
     }
 }
